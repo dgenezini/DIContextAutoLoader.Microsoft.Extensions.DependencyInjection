@@ -5,11 +5,6 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIContextAutoLoader.Microsoft.Extensions.DependencyInjection", "DIContextAutoLoader.Microsoft.Extensions.DependencyInjection.csproj", "{BB07F2CE-F16E-4701-A0F5-0FE3CDE55DC5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{DF2AAC4F-43A5-4125-A03D-C0D87AE551A9}"
-	ProjectSection(SolutionItems) = preProject
-		..\.nuget\DIContextAutoLoader.Microsoft.Extensions.DependencyInjection.nuspec = ..\.nuget\DIContextAutoLoader.Microsoft.Extensions.DependencyInjection.nuspec
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
